@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ## Dennis Oguah — Data Engineer
 
 Building data pipelines and lakehouses on Azure Databricks.
@@ -10,4 +10,3 @@ Building data pipelines and lakehouses on Azure Databricks.
 **Current project:** End-to-end e-hailing lakehouse — Bronze → Silver → Gold
 on Azure Databricks with 500-trip Nigerian dataset across 5 cities.
 ```
--->
