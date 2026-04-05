@@ -1,12 +1,7 @@
-## Hi there 👋
-
-
 ## Dennis Oguah — Data Engineer
 
-Building data pipelines and lakehouses on Azure Databricks.
+Building production data pipelines and lakehouses on Azure.
 
-**Stack:** Python · SQL · PySpark · Azure Databricks · Delta Lake · Git
+**Stack:** Python · SQL · PySpark · Azure Databricks · Delta Lake · Azure Event Hubs · ADLS Gen2 · Git
 
-**Current project:** End-to-end e-hailing lakehouse — Bronze → Silver → Gold
-on Azure Databricks with 500-trip Nigerian dataset across 5 cities.
-```
+**Featured:** [E-Hailing Lakehouse](https://github.com/zdennisoguah/Data-Engineering-Pathway/tree/main/projects/ehailing-lakehouse) — Bronze → Silver → Gold pipeline on Azure Databricks · 500 trips · 5 Nigerian cities
